@@ -152,15 +152,11 @@ Error: Invalid API key
 - ✅ Foundation for building more complex AI systems
 
 ---
+###  ⬅️ Previous
+ [Day 1: Core Concepts](https://github.com/lookmohan/Agentic-AI)
 
-##  Next 
-🔜 githublinkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-
----
-
-## 🔗 Previous Day
-
-← [Day 1: Core Concepts](https://github.com/lookmohan/Agentic-AI)
+###  ➡️ Next
+ [Day 3: Prompt Technique]githublinkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
 ---
 

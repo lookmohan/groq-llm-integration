@@ -177,7 +177,7 @@ If you're also learning about Agentic AI, feel free to:
 - ⭐ Star this repository
 - 🔄 Fork and experiment with the code
 - 💬 Open an issue to discuss implementations
-- 📧 Reach out: [your-email@example.com]
+- 📧 Reach out: [mohanraj9677011@gmail.com]
 
 ---
 
